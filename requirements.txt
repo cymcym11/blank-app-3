@@ -1,21 +1,12 @@
-streamlit
-Pillowstreamlit
-numpy
-plotly
-pandas
-scipy
-matplotlib
-xarray
-netCDF4
-cartopy
-shapely
-pyproj
-pydap
-seaborn
-pydeck
-requests>=2.32
-pyecharts>=2.0.5
-streamlit-echarts>=0.4.0
+# requirements.txt
+streamlit>=1.22
+pandas>=2.0
+numpy>=1.24
+plotly>=5.15
+matplotlib>=3.7
+requests>=2.28
+python-dateutil
+pytz
+statsmodels>=0.14
 
-kaggle
 
